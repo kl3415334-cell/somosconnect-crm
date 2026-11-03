@@ -1,0 +1,20 @@
+{
+  "id": "/",
+  "name": "SomosConnect CRM - Corporación Social Somos Uno",
+  "short_name": "SomosConnect",
+  "description": "Plataforma de gestión de servicio al cliente, PQRS y normatividad legal para Corporación Social Somos Uno.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#003366",
+  "theme_color": "#003366",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
